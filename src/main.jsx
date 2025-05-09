@@ -13,6 +13,7 @@ import { UserProvider } from './context/context.jsx';
 import AjouterRapport from './composant/ajouterRapport.jsx';
 import ModifierRapport from './composant/modifierRapport.jsx';
 
+//prout
 const router = createBrowserRouter([
   { path: '/', element: <App /> },
   { path: 'accueil', element: <Accueil />,
